@@ -1,4 +1,4 @@
-# School System
+# University System
 I learnt from Edubook that I need to go slow but safe, and I'm proud of following that rule in this project.
 This is a univerity system developed in ReactJs, JavaScript and Google Firebase (STILL IN DEVELOPING).
 
